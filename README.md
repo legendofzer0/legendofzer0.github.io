@@ -1,1 +1,3 @@
-# legendofzer0.github.io
+# legendofzer0.github.
+
+Portfoio project of mine 
