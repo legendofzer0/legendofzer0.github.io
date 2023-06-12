@@ -6,8 +6,8 @@ body {
 #container {
     display: grid;
     position: relative;
-    width: 90vw;
-    height: 85vh;
+    width: auto;
+    height:auto;
     background-image: linear-gradient(120deg, rgb(47, 47, 255),rgb(63, 196, 253));
     margin: 3%;
     padding: .3%;
@@ -29,7 +29,7 @@ h2 {
 
 p{
     margin: 2em;
-    margin-bottom: 25%;
+    margin-bottom: 20%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
 }
 
